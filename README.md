@@ -4,7 +4,7 @@
 An interactive Power BI dashboard designed to analyze and track key retail performance metrics for Maven Market across North America (1998). 
 
 ### 🖼️ Dashboard Preview
-![Topline Performance](Screenshot%202026-06-09%20222445.png)
+![Topline Performance](dashboard.png)
 
 ## 💡 Key Features & Insights
 * **Executive KPIs:** Real-time tracking of Current Month Transactions, Profit, and Returns against monthly targets.
